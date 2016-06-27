@@ -1,4 +1,3 @@
-'AM_Funktion_parseJSON
 
 Function printDictionary( objDic, level )
 	Dim strResult, objItem, strSpacer, i
